@@ -23,6 +23,11 @@ $ vuestic <project-name>
 
 Example:
 
-```bash
-$ vuestic my-project
+``` bash
+$ vuestic myproject
+
+$ cd myproject
+$ npm install
+
+$ npm run dev
 ```
